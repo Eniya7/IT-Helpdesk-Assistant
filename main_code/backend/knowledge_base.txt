@@ -1,0 +1,44 @@
+Q: My computer is slow. What should I do?
+A: Restart your computer, close unused applications, clear browser cache, and check for Windows/macOS updates. If the issue persists, run a disk cleanup and check for malware.
+
+Q: I forgot my password. How do I reset it?
+A: Go to the login screen and click "Forgot Password". A reset link will be sent to your registered email. If you don't receive it, contact IT support to manually reset your account.
+
+Q: My internet is not working.
+A: First, check if the ethernet cable is plugged in or if Wi-Fi is enabled. Restart your router by unplugging it for 30 seconds. If the issue persists, restart your computer and contact IT support.
+
+Q: How do I connect to the VPN?
+A: Open the VPN client (e.g., Cisco AnyConnect or GlobalProtect), enter your company credentials, and click Connect. If you don't have the VPN client, download it from the company intranet or contact IT.
+
+Q: My email is not syncing.
+A: Restart Outlook or your email client. Check your internet connection. Re-enter your email password if prompted. If using Outlook, go to File > Account Settings and verify your account settings.
+
+Q: How do I set up a printer?
+A: Go to Settings > Printers & Scanners > Add a Printer. Select your printer from the list. If it doesn't appear, ensure the printer is on the same network and install the drivers from the manufacturer's website.
+
+Q: My screen is not displaying correctly or has resolution issues.
+A: Right-click the desktop > Display Settings. Adjust the resolution to the recommended setting. Update your graphics drivers if the issue persists.
+
+Q: How do I request new software installation?
+A: Submit a software request ticket through the IT helpdesk portal. Include the software name, version, and business justification. IT will evaluate and install it within 2-3 business days.
+
+Q: My computer won't turn on.
+A: Check if the power cable is properly connected. Try a different power outlet. Hold the power button for 10 seconds to force a restart. If the issue persists, contact IT support immediately.
+
+Q: How do I access shared drives or network folders?
+A: On Windows, open File Explorer and click "Network" or map a network drive via Tools > Map Network Drive. Use the path provided by IT (e.g., \\server\shared). You may need your company credentials to log in.
+
+Q: My keyboard or mouse is not working.
+A: Check if the USB cable is properly connected or replace the batteries if wireless. Try a different USB port. Restart your computer. If the issue persists, request a replacement device from IT.
+
+Q: How do I transfer files between computers?
+A: Use the company's shared network drive, OneDrive, or SharePoint to transfer files. Avoid using personal USB drives for security reasons.
+
+Q: I am getting a "blue screen of death" (BSOD) error.
+A: Note down the error code shown on the screen. Restart your computer. If it keeps happening, contact IT support immediately with the error code — this may indicate a hardware or driver issue.
+
+Q: How do I enable two-factor authentication (2FA)?
+A: Go to your account security settings and select "Enable Two-Factor Authentication". Choose your preferred method (authenticator app or SMS). Follow the on-screen instructions to complete setup.
+
+Q: My microphone or camera is not working for video calls.
+A: Check if the microphone/camera is plugged in. Go to Settings > Privacy > Microphone/Camera and ensure the app has permission. Restart the video call application.
