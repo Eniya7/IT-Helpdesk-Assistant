@@ -1,0 +1,132 @@
+issue,category,subcategory,priority
+"My computer won't turn on",HARDWARE,Power Issue,HIGH
+"Laptop screen is black",HARDWARE,Display,HIGH
+"Computer is making loud noise",HARDWARE,Physical Damage,MEDIUM
+"Keyboard keys are not working",HARDWARE,Input Device,MEDIUM
+"Mouse is not responding",HARDWARE,Input Device,LOW
+"Monitor showing no signal",HARDWARE,Display,MEDIUM
+"Printer is not printing",HARDWARE,Printer,MEDIUM
+"Printer showing offline",HARDWARE,Printer,MEDIUM
+"Paper jam in printer",HARDWARE,Printer,LOW
+"Laptop battery not charging",HARDWARE,Power Issue,MEDIUM
+"USB port not working",HARDWARE,Ports,LOW
+"Headphones not detected",HARDWARE,Audio,LOW
+"Webcam not working",HARDWARE,Camera,MEDIUM
+"Microphone not detected",HARDWARE,Audio,MEDIUM
+"Hard disk making clicking sound",HARDWARE,Storage,HIGH
+"Computer randomly shuts down",HARDWARE,Power Issue,HIGH
+"RAM not detected",HARDWARE,Memory,HIGH
+"CPU overheating",HARDWARE,Cooling,HIGH
+"Screen flickering",HARDWARE,Display,MEDIUM
+"Touchpad not working",HARDWARE,Input Device,LOW
+"Internet not working",NETWORK,Connectivity,HIGH
+"WiFi keeps disconnecting",NETWORK,Wireless,MEDIUM
+"Cannot connect to WiFi",NETWORK,Wireless,MEDIUM
+"Slow internet speed",NETWORK,Performance,MEDIUM
+"VPN not connecting",NETWORK,VPN,HIGH
+"VPN disconnects frequently",NETWORK,VPN,MEDIUM
+"Cannot access company intranet",NETWORK,Connectivity,HIGH
+"Network drive not accessible",NETWORK,File Sharing,HIGH
+"Remote desktop not connecting",NETWORK,Remote Access,HIGH
+"Firewall blocking application",NETWORK,Security,MEDIUM
+"IP address conflict",NETWORK,Configuration,MEDIUM
+"DNS not resolving",NETWORK,Configuration,HIGH
+"Ethernet cable not detected",NETWORK,Connectivity,MEDIUM
+"Cannot ping server",NETWORK,Connectivity,HIGH
+"Proxy settings not working",NETWORK,Configuration,MEDIUM
+"Cannot access external websites",NETWORK,Connectivity,MEDIUM
+"Network printer not found",NETWORK,Printer,MEDIUM
+"Shared folder access denied",NETWORK,File Sharing,HIGH
+"RDP session keeps dropping",NETWORK,Remote Access,MEDIUM
+"Bandwidth throttling issue",NETWORK,Performance,LOW
+"Forgot my password",ACCOUNT,Password,HIGH
+"Account locked out",ACCOUNT,Lockout,HIGH
+"Cannot log into Windows",ACCOUNT,Login,HIGH
+"Two-factor authentication not working",ACCOUNT,MFA,HIGH
+"Cannot access company email",ACCOUNT,Email Access,HIGH
+"New employee account setup",ACCOUNT,Provisioning,MEDIUM
+"Need admin privileges",ACCOUNT,Permissions,MEDIUM
+"Cannot access shared mailbox",ACCOUNT,Email Access,MEDIUM
+"Active Directory account issue",ACCOUNT,Directory,HIGH
+"SSO login failing",ACCOUNT,SSO,HIGH
+"Permission denied on folder",ACCOUNT,Permissions,MEDIUM
+"Need access to new system",ACCOUNT,Provisioning,MEDIUM
+"Account password expiring",ACCOUNT,Password,LOW
+"Cannot reset security questions",ACCOUNT,Password,MEDIUM
+"Guest account access needed",ACCOUNT,Provisioning,LOW
+"User profile corrupted",ACCOUNT,Profile,HIGH
+"Cannot unlock screensaver",ACCOUNT,Login,MEDIUM
+"Office 365 license not assigned",ACCOUNT,Licensing,HIGH
+"Software license expired",ACCOUNT,Licensing,HIGH
+"Need to disable old employee account",ACCOUNT,Offboarding,HIGH
+"Outlook not opening",SOFTWARE,Email Client,HIGH
+"Email not sending",SOFTWARE,Email Client,HIGH
+"Email not receiving",SOFTWARE,Email Client,HIGH
+"Outlook keeps crashing",SOFTWARE,Email Client,MEDIUM
+"Calendar not syncing",SOFTWARE,Productivity,MEDIUM
+"Microsoft Teams not working",SOFTWARE,Collaboration,HIGH
+"Teams calls dropping",SOFTWARE,Collaboration,MEDIUM
+"Zoom audio not working",SOFTWARE,Video Conferencing,MEDIUM
+"Cannot install software",SOFTWARE,Installation,MEDIUM
+"Software update failing",SOFTWARE,Updates,MEDIUM
+"Application crashing on startup",SOFTWARE,Crash,HIGH
+"Blue screen of death (BSOD)",SOFTWARE,System Crash,HIGH
+"Windows update stuck",SOFTWARE,Updates,MEDIUM
+"Antivirus not updating",SOFTWARE,Security,HIGH
+"Browser not loading pages",SOFTWARE,Browser,MEDIUM
+"Browser extensions causing issues",SOFTWARE,Browser,LOW
+"Excel file not opening",SOFTWARE,Office Suite,MEDIUM
+"Word document corrupted",SOFTWARE,Office Suite,HIGH
+"PowerPoint not responding",SOFTWARE,Office Suite,MEDIUM
+"PDF reader not working",SOFTWARE,Document,LOW
+"ERP system error",SOFTWARE,Business App,HIGH
+"CRM software crashing",SOFTWARE,Business App,HIGH
+"Accounting software login issue",SOFTWARE,Business App,HIGH
+"Driver not installed",SOFTWARE,Drivers,MEDIUM
+"Printer driver missing",SOFTWARE,Drivers,MEDIUM
+"Sound driver issue",SOFTWARE,Drivers,MEDIUM
+"Graphics driver crash",SOFTWARE,Drivers,HIGH
+"Cannot uninstall software",SOFTWARE,Installation,LOW
+"Software not compatible with OS",SOFTWARE,Compatibility,MEDIUM
+"Task manager shows 100% CPU",SOFTWARE,Performance,HIGH
+"Computer running very slow",SOFTWARE,Performance,MEDIUM
+"Cannot access file on server",STORAGE,File Access,HIGH
+"File deleted accidentally",STORAGE,Recovery,HIGH
+"Hard disk almost full",STORAGE,Capacity,MEDIUM
+"Cannot save files to network drive",STORAGE,File Access,HIGH
+"OneDrive not syncing",STORAGE,Cloud Storage,MEDIUM
+"SharePoint access issue",STORAGE,Cloud Storage,MEDIUM
+"Backup not completing",STORAGE,Backup,HIGH
+"Need data recovery",STORAGE,Recovery,HIGH
+"External hard drive not detected",STORAGE,External Storage,MEDIUM
+"USB drive not showing up",STORAGE,External Storage,LOW
+"File permission denied",STORAGE,Permissions,MEDIUM
+"Folder missing on shared drive",STORAGE,File Access,HIGH
+"Cannot upload files to SharePoint",STORAGE,Cloud Storage,MEDIUM
+"Archive files not accessible",STORAGE,File Access,MEDIUM
+"Database connection error",STORAGE,Database,HIGH
+"Storage quota exceeded",STORAGE,Capacity,MEDIUM
+"NAS device not accessible",STORAGE,Network Storage,HIGH
+"RAID array failure",STORAGE,Hardware RAID,HIGH
+"File corrupted after transfer",STORAGE,File Integrity,HIGH
+"Cannot map network drive",STORAGE,Network Storage,MEDIUM
+"Suspected virus or malware",SECURITY,Malware,HIGH
+"Phishing email received",SECURITY,Email Threat,HIGH
+"Ransomware attack",SECURITY,Ransomware,CRITICAL
+"Unauthorized access detected",SECURITY,Intrusion,CRITICAL
+"Data breach suspected",SECURITY,Data Breach,CRITICAL
+"Suspicious login activity",SECURITY,Account Security,HIGH
+"Firewall rules need update",SECURITY,Firewall,MEDIUM
+"SSL certificate expired",SECURITY,Certificate,HIGH
+"Spam emails flooding inbox",SECURITY,Email Threat,MEDIUM
+"USB device blocked by policy",SECURITY,Policy,LOW
+"Password policy not enforced",SECURITY,Policy,MEDIUM
+"Audit log access needed",SECURITY,Compliance,MEDIUM
+"Employee accessing restricted data",SECURITY,Data Access,HIGH
+"Encryption not working",SECURITY,Encryption,HIGH
+"Security scan showing threats",SECURITY,Malware,HIGH
+"Cannot access after security update",SECURITY,Policy,MEDIUM
+"DLP alert triggered",SECURITY,Data Loss,HIGH
+"Endpoint protection disabled",SECURITY,Malware,HIGH
+"Certificate error in browser",SECURITY,Certificate,MEDIUM
+"Account showing suspicious activity",SECURITY,Account Security,HIGH
